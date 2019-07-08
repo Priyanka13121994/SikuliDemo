@@ -11,6 +11,8 @@ public class SikuliDemo
 	public static void main(String[] args) throws FindFailed 
 	{
 		System.out.println("Sikuli demo in git hub");
+		System.out.println("Sikuli is running successfully")
+
 		/*
 		 * To run the sikuli just add sikuli-scipt jar and sikuli api
 		 * Go to the link https:/sikuli/+download and download exe
