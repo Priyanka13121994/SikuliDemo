@@ -35,6 +35,7 @@ public class SikuliDemo
 		sc.click(back);
 		sc.type(email, "priyankaspatil5@gmail.com");
 		sc.type(password, "123456");
+		sc.type(password, "123456");
 		sc.click(login);
 		
 	}
